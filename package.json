@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "chrome-har": "^0.11.7",
+    "esm": "^3.2.25",
+    "js-beautify": "^1.11.0",
+    "mongoose": "^5.9.10",
+    "prettier": "^2.0.4",
+    "puppeteer": "^2.1.1",
+    "puppeteer-har": "^1.1.2",
+    "sha1": "^1.1.1",
+    "uuid": "^7.0.3"
+  }
+}

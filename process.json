@@ -1,0 +1,8 @@
+{
+	"apps": [{
+		"name": "amq-analyser",
+		"cwd": "src/amq/consumers",
+		"script": "analyser.js",
+		"watch": false
+	}]
+}
