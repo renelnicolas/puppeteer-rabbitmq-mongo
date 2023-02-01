@@ -10,7 +10,7 @@
     "chrome-har": "^0.11.7",
     "esm": "^3.2.25",
     "js-beautify": "^1.11.0",
-    "mongoose": "^5.9.10",
+    "mongoose": "^5.13.15",
     "prettier": "^2.0.4",
     "puppeteer": "^2.1.1",
     "puppeteer-har": "^1.1.2",
